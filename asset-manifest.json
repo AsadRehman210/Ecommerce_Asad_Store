@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ecommerce_Asad_Store/static/css/main.3f1f45b8.css",
+    "main.js": "/Ecommerce_Asad_Store/static/js/main.f77f2895.js",
+    "static/media/heroImage.png": "/Ecommerce_Asad_Store/static/media/heroImage.8b8969e98b1219fdeb57.png",
+    "static/media/image5.webp": "/Ecommerce_Asad_Store/static/media/image5.0b1f412200537b5b435e.webp",
+    "static/media/image3.webp": "/Ecommerce_Asad_Store/static/media/image3.9a5ee18351de7f532bb5.webp",
+    "static/media/image7.webp": "/Ecommerce_Asad_Store/static/media/image7.122f86f179e01d6e2d97.webp",
+    "static/media/image4.webp": "/Ecommerce_Asad_Store/static/media/image4.3d920f6addba9d1983ae.webp",
+    "static/media/image8.webp": "/Ecommerce_Asad_Store/static/media/image8.2404e19c1dedb9ef4add.webp",
+    "static/media/image6.webp": "/Ecommerce_Asad_Store/static/media/image6.c2098560d253c28afffb.webp",
+    "index.html": "/Ecommerce_Asad_Store/index.html",
+    "main.3f1f45b8.css.map": "/Ecommerce_Asad_Store/static/css/main.3f1f45b8.css.map",
+    "main.f77f2895.js.map": "/Ecommerce_Asad_Store/static/js/main.f77f2895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f1f45b8.css",
+    "static/js/main.f77f2895.js"
+  ]
+}
