@@ -942,6 +942,9 @@ header {
 .cart_section .cart_row .cart_button button {
   font-size: 1.8rem;
 }
+.cart_section .cart_row .cart_button Navlink {
+  font-size: 1.8rem;
+}
 .cart_section .cart_row .Total_Summary {
   display: flex;
   justify-content: flex-end;
