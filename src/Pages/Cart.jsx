@@ -71,9 +71,9 @@ const Cart = () => {
                         </table>
                     </div>
                     <div className='cart_button col-12'>
-                        <button className='btn btn-primary'>
+                        <NavLink to="/products" className='btn btn-primary'>
                             Continue Shopping
-                        </button>
+                        </NavLink>
                         <button className='btn btn-danger' onClick={ClearCart}>
                             Clear Cart
                         </button>
